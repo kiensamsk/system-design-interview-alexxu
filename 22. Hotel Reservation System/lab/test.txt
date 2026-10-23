@@ -1,0 +1,5 @@
+export PGHOST=lab-booking-instance-1.cf0ysuu6qdbu.ap-southeast-1.rds.amazonaws.com
+export PGUSER=postgres
+export PGPASSWORD='12345678'
+export PGDATABASE=postgres
+psql   # mở 2 cửa sổ terminal, gọi là Session A và Session B
